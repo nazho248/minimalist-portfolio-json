@@ -11,8 +11,8 @@ import Copy from "../../icons/Copy.astro";
         <h3>{ref.name}</h3>
         <h4> {ref.position}</h4>
         <p>{ref.company}</p>
-        <p class="copy">{ref.phone}</p>
-        <p class="copy"><Copy/> {ref.email}</p>
+        <p class="copy"> <span class=copytext>{ref.phone}</span></p>
+        <p class="copy"><Copy/> <span class=copytext>{ref.email}</span></p>
       </li>
     ))}
   </ul>
@@ -48,7 +48,8 @@ import Copy from "../../icons/Copy.astro";
   /*para dar clic y copiar al portapapeles*/
     document.querySelectorAll('.copy').forEach((p) => {
         p.addEventListener('click', () => {
-          const text = p.textContent || '';
+          //copiar el contenido del span
+        const text = p.querySelector('.copytext').textContent;
 
         navigator.clipboard.writeText(text);
         alert(`Copiado al portapapeles: ${text}`);

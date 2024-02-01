@@ -236,7 +236,7 @@
     {
       "name": "LoyalBits",
       "isActive": true,
-      "description": "Sistema de Fidelización de clientes para una residencia. gestiona clientes y cupones para descuentos",
+      "description": "Sistema de Fidelización de clientes para una residencia. gestiona clientes y cupones para descuentos utilizando la tecnología NFC de tarjetas.",
       "highlights": [
         "Tailwind",
         "API",
