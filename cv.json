@@ -1,66 +1,40 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Jair Andrés González Ruiz",
+    "label": "Ingeniero de Software",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "jairandres24@hotmail.es",
+    "phone": "+57 321 988 3026",
+    "url": "null",
+    "summary": "Soy Jair, un ingeniero de software de 23 años de Bucaramanga, Colombia. Me gradué con honores y me apasiona enfocarme en el diseño y rendimiento para brindar la mejor experiencia de usuario.\n\nPara mi tesis, desarrollé un proyecto innovador que expone piezas arqueológicas de la reserva de la Universidad de Santander en realidad aumentada a través de dispositivos móviles. Mi objetivo fue crear una experiencia cómoda y agradable para el usuario, afrontando la dificultad de aprender las tecnologías necesarias en poco tiempo.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "680005",
+      "city": "Bucaramanga",
+      "countryCode": "Co",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "nazhodev",
+        "url": "https://www.linkedin.com/in/nazhodev/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "nazho248",
+        "url": "https://github.com/nazho248"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Independiente",
+      "position": "Front-End y Back-End",
+      "url": null,
+      "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "He trabajado en multiples proyectos de desarrollo mejorando el rendimiento, la experiencia y añadiendo nuevas caracteristicas a los sistemas. Dentro de estos se encuentra un POS y un sistema de gestión hotelera. Actualmente, trabajo en LoyalBits, mi primer proyecto profesional donde estoy aplicando todas las metodologías y estándares aprendidos para asegurar la sostenibilidad y mantenibilidad del proyecto a futuro.",
       "highlights": [
         "Started the company"
       ]
@@ -78,15 +52,15 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
+    "institution": "Universidad de Santander",
+    "url": "https://udes.edu.co/",
     "area": "Ingeniero de Software",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2018-01-01",
+    "endDate": "2024-01-01",
+    "score": "4.56",
     "courses": [
-      "DB1101 - Basic SQL"
+      "XXX - XXXX"
     ]
   }],
   "awards": [{
@@ -109,6 +83,13 @@
     "summary": "Description…"
   }],
   "skills": [
+    {
+      "name": "Ingles B1+",
+      "level": "Intermediate",
+      "keywords": [
+        "Idioma", "Secundario"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
@@ -138,20 +119,6 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
@@ -173,17 +140,59 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "API"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "API"
+      ]
+    },
+    {
+      "name": "Arduino",
+      "level": "Intermedio",
+      "keywords": [
+        "IoT", "C++"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermedio",
+      "keywords": [
+        "Manejo en consola"
+      ]
+    },
+    {
+      "name": "Jquery",
+      "level": "Intermedio",
+      "keywords": [
+        "JavaScript", "FrontEnd"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermedio",
+      "keywords": [
+        "Manejo servidores"
+      ]
+    },
+    {
+      "name": "Android",
+      "level": "Principiante",
+      "keywords": [
+        "Android", "Desarrollo móvil","Java"
       ]
     }
   ],
@@ -194,7 +203,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "B1+"
     }
   ],
   "interests": [{
@@ -205,71 +214,61 @@
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+    "name": "William Ardila",
+    "reference": "Reference…",
+    "company": "Universidad de Santander",
+    "position": "Director Ingeniería Software",
+    "phone": "316 4949 402",
+    "email": "willian.ardila@mail.udes.edu.co",
+    "relationship": "Directora de Tesis"
+  },
+    {
+      "name": "Grethel Florez",
+      "reference": "Reference…",
+      "company": "Universidad de Santander",
+      "position": "Directora de Tesis",
+      "phone": "317 7754 424",
+      "email": "gre.florez@mail.udes.edu.co",
+      "relationship": "Directora de Tesis"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "LoyalBits",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sistema de Fidelización de clientes para una residencia. gestiona clientes y cupones para descuentos",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Tailwind",
+        "API",
+        "Cliente",
+        "JavaScript & PHP",
+        "React"
       ],
-      "url": "https://mars.codes"
+      "url": "https://loyal.residenciafuentedeamor.com.co/"
     },
     {
-      "name": "AdventJS",
+      "name": "Re-leyendo Artefactos",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "App web Museo para la Universidad de Santander sobre algunos artefactos de la reserva.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "WebXR",
+        "React",
+        "Tesis",
+        "En proceso de montaje"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://arqueo-factos.vercel.app/",
+      "github": "https://github.com/nazho248/FrontMuseum"
     },
     {
-      "name": "Codember",
+      "name": "SoftHotel",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Sistema de gestión hotelera. He trabajado refactorizando el codigo legado PHP para mejorar la experiencia de usuario y rendimiento",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "En producción",
+        "PHP",
+        "Independiente"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://hotelplazuelareal.com/new/"
     }
   ]
 }
