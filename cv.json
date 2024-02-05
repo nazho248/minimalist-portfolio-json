@@ -6,7 +6,7 @@
     "email": "jairandres24@hotmail.es",
     "phone": "+57 321 988 3026",
     "url": "null",
-    "summary": "Soy Jair, un ingeniero de software de 23 años de Bucaramanga, Colombia. Me gradué con honores y me apasiona enfocarme en el diseño y rendimiento para brindar la mejor experiencia de usuario.\n\nPara mi tesis, desarrollé un proyecto innovador que expone piezas arqueológicas de la reserva de la Universidad de Santander en realidad aumentada a través de dispositivos móviles. Mi objetivo fue crear una experiencia cómoda y agradable para el usuario, afrontando la dificultad de aprender las tecnologías necesarias en poco tiempo.",
+    "summary": "Soy Jair, un ingeniero de software de 22 años de Bucaramanga, Colombia. Me gradué con honores y me apasiona enfocarme en el diseño y rendimiento para brindar la mejor experiencia de usuario.\n\nPara mi tesis, desarrollé un proyecto innovador que expone piezas arqueológicas de la reserva de la Universidad de Santander en realidad aumentada a través de dispositivos móviles. Mi objetivo fue crear una experiencia cómoda y agradable para el usuario, afrontando la dificultad de aprender las tecnologías necesarias en poco tiempo.",
     "location": {
       "address": "",
       "postalCode": "680005",
@@ -262,13 +262,13 @@
     {
       "name": "SoftHotel",
       "isActive": true,
-      "description": "Sistema de gestión hotelera. He trabajado refactorizando el codigo legado PHP para mejorar la experiencia de usuario y rendimiento",
+      "description": "Sistema de gestión hotelera. He trabajado refactorizando el codigo legado PHP para mejorar la experiencia de usuario y rendimiento.",
       "highlights": [
         "En producción",
         "PHP",
         "Independiente"
       ],
-      "url": "https://hotelplazuelareal.com/new/"
+      "url": "https://hotelplazuelareal.com/"
     }
   ]
 }
