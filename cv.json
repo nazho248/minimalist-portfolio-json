@@ -6,7 +6,7 @@
     "email": "jairandres24@hotmail.es",
     "phone": "+57 321 988 3026",
     "url": "null",
-    "summary": "Soy Jair, un ingeniero de software de 22 años de Bucaramanga, Colombia. Me gradué con honores y me apasiona enfocarme en el diseño y rendimiento para brindar la mejor experiencia de usuario.\n\nPara mi tesis, desarrollé un proyecto innovador que expone piezas arqueológicas de la reserva de la Universidad de Santander en realidad aumentada a través de dispositivos móviles. Mi objetivo fue crear una experiencia cómoda y agradable para el usuario, afrontando la dificultad de aprender las tecnologías necesarias en poco tiempo.",
+    "summary": "Soy Jair, un ingeniero de software de 22 años de Bucaramanga, Colombia. Me gradué con honores y me apasiona enfocarme en el diseño, optimización y rendimiento para brindar la mejor experiencia de usuario.\n\nPara mi tesis, desarrollé un proyecto innovador que expone piezas arqueológicas de la reserva de la Universidad de Santander en realidad aumentada a través de dispositivos móviles. Mi objetivo fue crear una experiencia cómoda y agradable para el usuario, afrontando la dificultad de aprender las tecnologías necesarias en poco tiempo.\n\nTengo buenos conocimientos de Excel, incluyendo el uso de fórmulas, tablas dinámicas y análisis de datos. También me desempeño bien en Word y PowerPoint para crear documentos y presentaciones profesionales. Disfruto aprender nuevas habilidades y herramientas a medida que las descubro. Soy autodidacta y ávido por adquirir nuevos conocimientos.",
     "location": {
       "address": "",
       "postalCode": "680005",
@@ -84,10 +84,10 @@
   }],
   "skills": [
     {
-      "name": "Ingles B1+",
+      "name": "Excel",
       "level": "Intermediate",
       "keywords": [
-        "Idioma", "Secundario"
+        "Office","Google"
       ]
     },
     {
